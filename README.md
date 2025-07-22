@@ -3,13 +3,13 @@
 <td width="70%" valign="top">
 <h1>Hi, I'm Faizan Momin 👋</h1>
 <p>
-A passionate <b>Android & Java Developer</b> from India 🇮🇳, dedicated to building intuitive, robust, and user-centric mobile applications. I thrive on turning complex problems into elegant solutions and am constantly exploring new technologies to enhance my craft.
+A passionate <b>Android & Kotlin Learner</b> from India 🇮🇳, on an exciting journey to master mobile app development. I'm currently building my foundation in Kotlin and Android development, with hands-on experience in Firebase authentication and database operations.
 </p>
 <p>
 <a href="https://www.linkedin.com/in/faizan-momin-tech" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:faizanmomin701@gmail.com">
+<a href="mailto:mdfaizanmomin12@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 </p>
@@ -20,23 +20,24 @@ A passionate <b>Android & Java Developer</b> from India 🇮🇳, dedicated to b
 </tr>
 </table>
 
-## 🚀 What I'm Currently Focused On
+## 🚀 My Learning Journey
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">💡 Building</h3>
+<h3 align="center">💡 Currently Learning</h3>
 <ul>
-<li><b>Auction Portal:</b> Developing a real-time bidding platform with a secure backend.</li>
-<li><b>Leave Management System:</b> Crafting an efficient system for tracking and managing employee leave.</li>
+<li><b>Kotlin:</b> Building foundation in Kotlin programming language for Android development.</li>
+<li><b>Firebase Basics:</b> Working with Firebase Authentication and Realtime Database.</li>
+<li><b>Android Development:</b> Learning core Android concepts and UI components.</li>
 </ul>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">🌱 Learning</h3>
+<h3 align="center">🎯 Goals</h3>
 <ul>
-<li><b>Kotlin Multiplatform:</b> Exploring shared code between Android and iOS.</li>
-<li><b>Advanced Firebase:</b> Mastering Cloud Functions & Firestore security rules.</li>
-<li><b>Modern UI/UX Principles:</b> Focusing on creating beautiful and intuitive user interfaces.</li>
+<li><b>Master Kotlin:</b> Become proficient in Kotlin syntax and best practices.</li>
+<li><b>Build Projects:</b> Apply learning by creating practical Android applications.</li>
+<li><b>Explore Advanced Firebase:</b> Learn Cloud Firestore, Storage, and other Firebase services.</li>
 </ul>
 </td>
 </tr>
