@@ -7,7 +7,7 @@ A passionate <b>Android & Java Developer</b> from India 🇮🇳, dedicated to b
 </p>
 <p>
 <a href="https://www.linkedin.com/in/faizan-momin-tech" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:faizanmomin701@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -20,7 +20,8 @@ A passionate <b>Android & Java Developer</b> from India 🇮🇳, dedicated to b
 </tr>
 </table>
 
-🚀 What I'm Currently Focused On
+## 🚀 What I'm Currently Focused On
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -41,7 +42,8 @@ A passionate <b>Android & Java Developer</b> from India 🇮🇳, dedicated to b
 </tr>
 </table>
 
-🛠️ My Tech Arsenal & GitHub Journey
+## 🛠️ My Tech Arsenal & GitHub Journey
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -50,17 +52,17 @@ A passionate <b>Android & Java Developer</b> from India 🇮🇳, dedicated to b
 <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/></a>
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Firebase-FFCA28%3Fstyle%3Dfor-the-badge%26logo%3Dfirebase%26logoColor%3Dblack" alt="Firebase"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
 <a href="#"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/REST_APIs-0277BD%3Fstyle%3Dfor-the-badge%26logo%3Dapi%26logoColor%3Dwhite" alt="REST APIs"/></a>
+<a href="#"><img src="https://img.shields.io/badge/REST_APIs-0277BD?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 </td>
 <td width="50%" valign="top">
 <h3 align="left">GitHub Stats</h3>
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dfaizan701%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue" alt="Faizan's GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=faizan701&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Faizan's GitHub stats"/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan701&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
@@ -68,7 +70,8 @@ A passionate <b>Android & Java Developer</b> from India 🇮🇳, dedicated to b
 </tr>
 </table>
 
-💬 Let's Connect & Collaborate!
+## 💬 Let's Connect & Collaborate!
+
 <p align="center">
 I'm passionate about technology and innovation. If you have a project in mind, want to discuss tech, or just want to say hi, my inbox is always open!
 <br/>
