@@ -37,7 +37,6 @@ A passionate <b>Android & Kotlin Learner</b> from India 🇮🇳, on an exciting
 <ul>
 <li><b>Master Kotlin:</b> Become proficient in Kotlin syntax and best practices.</li>
 <li><b>Build Projects:</b> Apply learning by creating practical Android applications.</li>
-<li><b>Explore Advanced Firebase:</b> Learn Cloud Firestore, Storage, and other Firebase services.</li>
 </ul>
 </td>
 </tr>
