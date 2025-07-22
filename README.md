@@ -37,18 +37,15 @@ A passionate <b>Android & Kotlin Learner</b> from India 🇮🇳, on an exciting
 <ul>
 <li><b>Master Kotlin:</b> Become proficient in Kotlin syntax and best practices.</li>
 <li><b>Build Projects:</b> Apply learning by creating practical Android applications.</li>
+<li><b>Explore Advanced Firebase:</b> Learn Cloud Firestore, Storage, and other Firebase services.</li>
 </ul>
 </td>
 </tr>
 </table>
 
-## 🛠️ My Tech Arsenal & GitHub Journey
+## 🛠️ Languages & Technologies
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h3 align="left">Languages & Technologies</h3>
-<p>
+<p align="center">
 <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/></a>
@@ -58,12 +55,18 @@ A passionate <b>Android & Kotlin Learner</b> from India 🇮🇳, on an exciting
 <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
-</td>
+
+## 📊 GitHub Stats
+
+<table width="100%">
+<tr>
 <td width="50%" valign="top">
-<h3 align="left">GitHub Stats</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=faizan701&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Faizan's GitHub stats"/>
-<br/>
+</p>
+</td>
+<td width="50%" valign="top">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan701&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 </td>
