@@ -14,9 +14,7 @@ A passionate <b>Android & Kotlin Learner</b> from India 🇮🇳, on an exciting
 </a>
 </p>
 </td>
-<td width="30%" align="center" valign="top">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="180"/>
-</td>
+
 </tr>
 </table>
 
